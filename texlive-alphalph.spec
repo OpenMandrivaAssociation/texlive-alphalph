@@ -1,6 +1,6 @@
 Name:		texlive-alphalph
 Version:	53087
-Release:	1
+Release:	2
 Summary:	Convert numbers to letters
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/alphalph
