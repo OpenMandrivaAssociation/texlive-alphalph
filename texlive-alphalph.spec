@@ -3,7 +3,7 @@ Version:	53087
 Release:	2
 Summary:	Convert numbers to letters
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/alphalph
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/alphalph
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/alphalph.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/alphalph.doc.r%{version}.tar.xz
